@@ -1,0 +1,115 @@
+Cmp-Mod V01 Created by CvPcb (2013-06-06 BZR 4193)-testing date = Sun 15 Dec 2013 16:32:38 EET
+
+BeginCmp
+TimeStamp = /52AB3352;
+Reference = C101;
+ValeurCmp = 1000u;
+IdModule  = Elko_vert_DM14_RM5;
+EndCmp
+
+BeginCmp
+TimeStamp = /52AB3325;
+Reference = C102;
+ValeurCmp = 220n;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52AB3343;
+Reference = C103;
+ValeurCmp = 220n;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52AB3316;
+Reference = C104;
+ValeurCmp = 220n;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52AB3334;
+Reference = C105;
+ValeurCmp = 220n;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52AB3615;
+Reference = C106;
+ValeurCmp = 10u;
+IdModule  = Elko_vert_DM5_RM2-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /52AB3606;
+Reference = C107;
+ValeurCmp = 47u;
+IdModule  = Elko_vert_DM5_RM2-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /52AB3361;
+Reference = C108;
+ValeurCmp = 220n;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52AB3370;
+Reference = C109;
+ValeurCmp = 220n;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52ADBD0B;
+Reference = D101;
+ValeurCmp = DIODE;
+IdModule  = -SMC;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A9991A;
+Reference = K101;
+ValeurCmp = CONN_3;
+IdModule  = PIN_ARRAY_3X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A99947;
+Reference = P101;
+ValeurCmp = CONN_2;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A99938;
+Reference = P102;
+ValeurCmp = CONN_2;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A99929;
+Reference = P103;
+ValeurCmp = CONN_2;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /52AB3624;
+Reference = R101;
+ValeurCmp = 10k;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A99956;
+Reference = U101;
+ValeurCmp = STA540;
+IdModule  = st-microelectronics-MULTIWATT-15;
+EndCmp
+
+EndListe
